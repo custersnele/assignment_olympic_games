@@ -1,0 +1,9 @@
+1;100
+1;Norris;Turner;VU
+2;Ole;Klein;VG
+3;Amina;Stoltenberg;LY
+4;Toni;Douglas;HR
+6;Darron;Fahey;SZ
+7;Hollis;Koelpin;BN
+8;Bernita;Hane;TJ
+9;Burley;Conn;EE

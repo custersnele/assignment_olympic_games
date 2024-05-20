@@ -122,7 +122,7 @@ Responses:
 }
 ```
 
-### C. Atleten uploaden voor een race
+### C. Upload athletes for a race
 
 #### Entity-klassen
 
@@ -237,6 +237,7 @@ The run method should:<br>
 - Record the current time at the start.
 - Track the distance covered by the athlete.
 - Continuously add a random distance between 2 and 1/3 of the race distance to the total distance covered.
+- After updating the distance covered, a thread sleeps for 500 milliseconds.
 - Include a 2% chance of the athlete crashing, simulated by throwing a DidNotFinishException.
 - If the total distance exceeds the race distance, record the current time again.
 

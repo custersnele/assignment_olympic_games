@@ -226,7 +226,7 @@ The specified race or athlete was not found.
 - Write unit tests with mockito to verify the correct implementation the business logic.
 - Write unit tests with mock mvc to verify the correct implementation of the REST endpoint.
 
-### E. Multithreaded simulation of the race
+### F. Multithreaded simulation of the race
 
 The classes are provided in the package _be.pxl.multithreading_.
 

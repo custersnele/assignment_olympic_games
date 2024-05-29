@@ -32,7 +32,6 @@ Some remarks to consider during your implementation:
 | id            | long                         |
 | dateTime      | LocalDateTime                |
 | discipline    | Discipline (enum as String)  |
-| athlete       | Athlete (relation)           |
 
 
 **RaceStatus**
